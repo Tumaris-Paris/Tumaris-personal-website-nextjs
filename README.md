@@ -1,6 +1,6 @@
 # Tumaris Personal Website (Next.js)
 
-This is my personal website project, built with [Next.js](https://nextjs.org/) and styled using [Tailwind CSS](https://tailwindcss.com/). The website showcases my interests, including my love for cats and reading, and serves as a creative way to explore modern web development tools.
+This is my first ever personal website project, built with [Next.js](https://nextjs.org/) and styled using [Tailwind CSS](https://tailwindcss.com/). The website showcases my interests, including my love for cats and reading, and serves as a creative way to explore modern web development tools.
 
 ## 🎼 Website Preview
 
